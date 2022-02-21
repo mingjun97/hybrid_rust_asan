@@ -20,9 +20,9 @@ Check to target branch to see detailed instructions.
 
 ### ASAN
 
-![asan_1][./pictures/asan_1.png]
+![asan_1](./pictures/asan_1.png)
 
-![asan_2][./pictures/asan_2.png]
+![asan_2](./pictures/asan_2.png)
 
-![asan_3][./pictures/asan_3.png]
+![asan_3](./pictures/asan_3.png)
 
